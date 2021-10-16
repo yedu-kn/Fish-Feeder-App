@@ -1,5 +1,5 @@
 //Access Point Settings
-String AP_Name = "HTRTU_CONTROLLER_1";
+String AP_Name = "FEEDER_01";
 String AP_Password = "feed1234";
 
 String jsonString; //Variable to store json string which contain time settings
